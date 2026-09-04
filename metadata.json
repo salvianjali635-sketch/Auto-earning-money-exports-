@@ -1,0 +1,6 @@
+{
+  "name": "AutoEarn",
+  "description": "Automated passive earning, bandwidth sharing, and reward ad streaming app with instant cashout",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
